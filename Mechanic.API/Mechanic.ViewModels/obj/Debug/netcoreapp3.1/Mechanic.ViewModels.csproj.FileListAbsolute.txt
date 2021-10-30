@@ -1,0 +1,14 @@
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\bin\Debug\netcoreapp3.1\Mechanic.ViewModels.deps.json
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\bin\Debug\netcoreapp3.1\Mechanic.ViewModels.dll
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\bin\Debug\netcoreapp3.1\Mechanic.ViewModels.pdb
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\obj\Debug\netcoreapp3.1\Mechanic.ViewModels.csprojAssemblyReference.cache
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\obj\Debug\netcoreapp3.1\Mechanic.ViewModels.AssemblyInfoInputs.cache
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\obj\Debug\netcoreapp3.1\Mechanic.ViewModels.AssemblyInfo.cs
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\obj\Debug\netcoreapp3.1\Mechanic.ViewModels.csproj.CoreCompileInputs.cache
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\obj\Debug\netcoreapp3.1\Mechanic.ViewModels.dll
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\obj\Debug\netcoreapp3.1\Mechanic.ViewModels.pdb
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\bin\Debug\netcoreapp3.1\Mechanic.Common.dll
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\bin\Debug\netcoreapp3.1\Mechanic.Models.dll
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\bin\Debug\netcoreapp3.1\Mechanic.Common.pdb
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\bin\Debug\netcoreapp3.1\Mechanic.Models.pdb
+F:\MechanicApp\Mechanic.API\Mechanic.ViewModels\obj\Debug\netcoreapp3.1\Mechanic.ViewModels.csproj.CopyComplete

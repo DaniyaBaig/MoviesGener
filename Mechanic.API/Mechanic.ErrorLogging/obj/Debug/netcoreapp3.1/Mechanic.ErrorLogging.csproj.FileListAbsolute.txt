@@ -1,0 +1,12 @@
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\bin\Debug\netcoreapp3.1\Mechanic.ErrorLogging.deps.json
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\bin\Debug\netcoreapp3.1\Mechanic.ErrorLogging.dll
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\bin\Debug\netcoreapp3.1\Mechanic.ErrorLogging.pdb
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\obj\Debug\netcoreapp3.1\Mechanic.ErrorLogging.csprojAssemblyReference.cache
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\obj\Debug\netcoreapp3.1\Mechanic.ErrorLogging.AssemblyInfoInputs.cache
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\obj\Debug\netcoreapp3.1\Mechanic.ErrorLogging.AssemblyInfo.cs
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\obj\Debug\netcoreapp3.1\Mechanic.ErrorLogging.csproj.CoreCompileInputs.cache
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\obj\Debug\netcoreapp3.1\Mechanic.ErrorLogging.dll
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\obj\Debug\netcoreapp3.1\Mechanic.ErrorLogging.pdb
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\bin\Debug\netcoreapp3.1\Mechanic.Common.dll
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\bin\Debug\netcoreapp3.1\Mechanic.Common.pdb
+F:\MechanicApp\Mechanic.API\Mechanic.ErrorLogging\obj\Debug\netcoreapp3.1\Mechanic.ErrorLogging.csproj.CopyComplete

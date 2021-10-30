@@ -1,0 +1,9 @@
+{
+  "ConnectionStrings": {
+    "ErrorLog": {
+      "connectionString": "server=MM;Initial Catalog=MechanicApp;UID=sa;PWD=888;",
+      "providerName": "System.Data.SqlClient"
+    }
+  }
+
+}

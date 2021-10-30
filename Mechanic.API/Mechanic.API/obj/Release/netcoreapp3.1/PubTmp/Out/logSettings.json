@@ -1,0 +1,9 @@
+{
+  "ConnectionStrings": {
+    "ErrorLog": {
+      "connectionString": "server=BILAL;Initial Catalog=MechanicApp;UID=sa;PWD=murder+888;",
+      "providerName": "System.Data.SqlClient"
+    }
+  }
+
+}

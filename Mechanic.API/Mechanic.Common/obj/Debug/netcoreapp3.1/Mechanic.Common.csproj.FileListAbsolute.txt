@@ -1,0 +1,9 @@
+F:\MechanicApp\Mechanic.API\Mechanic.Common\bin\Debug\netcoreapp3.1\Mechanic.Common.deps.json
+F:\MechanicApp\Mechanic.API\Mechanic.Common\bin\Debug\netcoreapp3.1\Mechanic.Common.dll
+F:\MechanicApp\Mechanic.API\Mechanic.Common\bin\Debug\netcoreapp3.1\Mechanic.Common.pdb
+F:\MechanicApp\Mechanic.API\Mechanic.Common\obj\Debug\netcoreapp3.1\Mechanic.Common.csprojAssemblyReference.cache
+F:\MechanicApp\Mechanic.API\Mechanic.Common\obj\Debug\netcoreapp3.1\Mechanic.Common.AssemblyInfoInputs.cache
+F:\MechanicApp\Mechanic.API\Mechanic.Common\obj\Debug\netcoreapp3.1\Mechanic.Common.AssemblyInfo.cs
+F:\MechanicApp\Mechanic.API\Mechanic.Common\obj\Debug\netcoreapp3.1\Mechanic.Common.csproj.CoreCompileInputs.cache
+F:\MechanicApp\Mechanic.API\Mechanic.Common\obj\Debug\netcoreapp3.1\Mechanic.Common.dll
+F:\MechanicApp\Mechanic.API\Mechanic.Common\obj\Debug\netcoreapp3.1\Mechanic.Common.pdb
